@@ -1,5 +1,5 @@
 # butterfly-IDL
-NestJS 아웃게임 서버 <-> 실시간 인게임 서버간 gRPC 통신에 사용하는 Protobuf 공유를 위한 레포지토리 
+NestJS 아웃게임 서버 <-> 실시간 인게임 서버간 gRPC 통신에 사용하는 Protobuf 공유를 위한 레포지토리 (개인프로젝트)
 
 <div>
     <ul>
